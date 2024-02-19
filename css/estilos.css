@@ -1,0 +1,16 @@
+.image-container {
+    display: flex; 
+    width: 500px; 
+    height: auto; 
+     
+    
+    
+    
+  }
+  
+  .image-container img {
+    width: 20px; 
+    height: auto; 
+    margin-right: 100px; 
+    
+  }
